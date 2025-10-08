@@ -1,6 +1,6 @@
 ## Hello & Bonjour
 
-I am an educator and researcher interested in International Education Policy. 
+I am an educator and researcher focused on International Education Policy. 
 
 
 
