@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello & Bonjour
+
+I am an educator and researcher interested in International Education Policy. 
+
+
 
 <!--
 **pierredegalbert/pierredegalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
